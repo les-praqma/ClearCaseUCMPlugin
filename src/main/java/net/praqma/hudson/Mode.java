@@ -4,7 +4,6 @@ import hudson.FilePath;
 import hudson.model.AbstractBuild;
 import hudson.model.AbstractProject;
 import hudson.model.TaskListener;
-import hudson.scm.PollingResult;
 
 import java.io.File;
 
